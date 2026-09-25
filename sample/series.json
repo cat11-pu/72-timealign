@@ -1,0 +1,13 @@
+{
+  "bad_step_code": "E_BAD_STEP",
+  "step": 3,
+  "origin": 0,
+  "mode": "hold",
+  "max_gap": 1,
+  "points": [
+    {"t": 0, "v": 10},
+    {"t": 4, "v": 40},
+    {"t": 6, "v": 60},
+    {"t": 12, "v": 120}
+  ]
+}
